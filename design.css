@@ -120,8 +120,8 @@ img {
 
 #body_home div[id="mark"] {
 	-webkit-transition: 0.2s linear;
-	border-bottom: 1px dashed;
-	border-color: #777;
+	-webkit-box-shadow: 0px 1px 0px #fff;
+	border-bottom: 1px solid #aaa;
 	margin: 5px 0;
 }
 
