@@ -121,7 +121,7 @@ img {
 #body_home div[id="mark"] {
 	-webkit-transition: 0.2s linear;
 	-webkit-box-shadow: 0px 1px 0px #fff;
-	border-bottom: 1px solid #aaa;
+	border-bottom: 1px solid #b5b5b5;
 	margin: 5px 0;
 }
 
