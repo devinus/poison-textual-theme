@@ -1,11 +1,14 @@
-# Poised - theme for Textual IRC
+# Poison - A [Textual](https://github.com/Codeux/Textual) Theme
 
-I was not satisfied with existing themes for my IRC client of choice, [Textual][1], so I made one for myself.  
-If you happen to like it too, that's great!
+A theme based on the beautiful
+[Poised theme](https://github.com/Agos/Poised-theme) by Agostino Carandente
+for Textual 2.1.
 
-This is what it looks like in action:
-![Poised theme screenshot](http://f.cl.ly/items/1O1J0X1x2n111k181U2n/Schermata%2009-2455816%20alle%2013.48.53.png)
+I've only dropped the dependency on jQuery and optimized the background image.
+I know I have problems--no need to tell me.
 
-Licensing and boring stuff is in copyright.txt.
+## Install
 
-[1]: https://github.com/Codeux/Textual "Textual IRC"
+```sh-session
+$ git clone git://github.com/devinus/poison-textual-theme ~/Library/Containers/com.codeux.irc.textual/Data/Library/Application\ Support/Textual\ IRC/Styles/Poison
+```
